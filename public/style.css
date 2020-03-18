@@ -1,0 +1,123 @@
+#overlay-ui {
+    width: 100%;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    padding: 5px 0;
+    background: rgb(36, 36, 36);
+}
+
+.swiper-container {
+    width: 100%;
+}
+
+.swiper-slide {
+    background-size: cover;
+    background-position: center;
+}
+
+.gallery-thumbs {
+    height: 100%;
+    box-sizing: border-box;
+    padding: 10px 0;
+}
+
+.gallery-thumbs .swiper-slide {
+    width: 25%;
+    height: 100%;
+    opacity: 1;
+}
+
+.gallery-thumbs .swiper-slide-thumb-active {
+    opacity: 1;
+}
+
+#container3D {
+    width: 100%;
+    height: calc( 100% - 90px );
+}
+
+.gallery-3D {
+    width: 100vw;
+    height: 100vh;
+}
+
+/* loading animation */
+#loading-container {
+    width: 100%;
+    height: 100%;
+    background: #1f1f1fa3;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 999;
+}
+
+#loading-container .percent {
+	position: absolute;
+	top: 52%;
+	left: 49%;
+	color: white;
+	font-size: large;
+}
+
+.spinner {
+	width: 50px;
+	height: 30px;
+	text-align: center;
+	font-size: 10px;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin-left: -25px;
+	margin-top: -15px;
+}
+
+.spinner>div {
+	background-color: #fff;
+	height: 100%;
+	width: 6px;
+	display: inline-block;
+	-webkit-animation: stretchdelay 1.2s infinite ease-in-out;
+	animation: stretchdelay 1.2s infinite ease-in-out;
+}
+
+.spinner .rect2 {
+	-webkit-animation-delay: -1.1s;
+	animation-delay: -1.1s;
+}
+
+.spinner .rect3 {
+	-webkit-animation-delay: -1.0s;
+	animation-delay: -1.0s;
+}
+
+.spinner .rect4 {
+	-webkit-animation-delay: -0.9s;
+	animation-delay: -0.9s;
+}
+
+.spinner .rect5 {
+	-webkit-animation-delay: -0.8s;
+	animation-delay: -0.8s;
+}
+
+@-webkit-keyframes stretchdelay {
+	0%, 40%, 100% {
+		-webkit-transform: scaleY(0.4)
+	}
+	20% {
+		-webkit-transform: scaleY(1.0)
+	}
+}
+
+@keyframes stretchdelay {
+	0%, 40%, 100% {
+		transform: scaleY(0.4);
+		-webkit-transform: scaleY(0.4);
+	}
+	20% {
+		transform: scaleY(1.0);
+		-webkit-transform: scaleY(1.0);
+	}
+}

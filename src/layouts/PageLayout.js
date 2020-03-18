@@ -1,17 +1,13 @@
-import React, {Component} from 'react';
-import Header from '../components/Header';
-import Footer from '../components/Footer';
+import React, {Component, Fragment} from 'react';
 
 class PageLayout extends Component {
   render() {
     return (
-      <div>
-        <Header/>
+      <Fragment>
         <main>
           {this.props.children}
         </main>
-        <Footer/>
-      </div>
+      </Fragment>
     );
   }
 }
