@@ -1128,49 +1128,49 @@
   ],
   "images": [
     {
-      "uri": "textures/stock_baseColor.jpeg"
+      "uri": "textures/stock_baseColor.jpg"
     },
     {
-      "uri": "textures/stock_metallicRoughness.png"
+      "uri": "textures/stock_metallicRoughness.jpg"
     },
     {
-      "uri": "textures/stock_normal.png"
+      "uri": "textures/stock_normal.jpg"
     },
     {
-      "uri": "textures/gunbody_baseColor.jpeg"
+      "uri": "textures/gunbody_baseColor.jpg"
     },
     {
-      "uri": "textures/gunbody_metallicRoughness.png"
+      "uri": "textures/gunbody_metallicRoughness.jpg"
     },
     {
-      "uri": "textures/gunbody_normal.png"
+      "uri": "textures/gunbody_normal.jpg"
     },
     {
-      "uri": "textures/material_baseColor.jpeg"
+      "uri": "textures/material_baseColor.jpg"
     },
     {
-      "uri": "textures/material_metallicRoughness.png"
+      "uri": "textures/material_metallicRoughness.jpg"
     },
     {
-      "uri": "textures/material_normal.png"
+      "uri": "textures/material_normal.jpg"
     },
     {
-      "uri": "textures/foreend_baseColor.jpeg"
+      "uri": "textures/foreend_baseColor.jpg"
     },
     {
-      "uri": "textures/foreend_metallicRoughness.png"
+      "uri": "textures/foreend_metallicRoughness.jpg"
     },
     {
-      "uri": "textures/foreend_normal.png"
+      "uri": "textures/foreend_normal.jpg"
     },
     {
-      "uri": "textures/material_4_baseColor.jpeg"
+      "uri": "textures/material_4_baseColor.jpg"
     },
     {
-      "uri": "textures/material_4_metallicRoughness.png"
+      "uri": "textures/material_4_metallicRoughness.jpg"
     },
     {
-      "uri": "textures/material_4_normal.png"
+      "uri": "textures/material_4_normal.jpg"
     }
   ],
   "materials": [

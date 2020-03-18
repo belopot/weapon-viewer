@@ -6930,10 +6930,10 @@
   ],
   "images": [
     {
-      "uri": "textures/Steel_normal.png"
+      "uri": "textures/Steel_normal.jpg"
     },
     {
-      "uri": "textures/Wood_baseColor.png"
+      "uri": "textures/Wood_baseColor.jpg"
     }
   ],
   "materials": [
