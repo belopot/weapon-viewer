@@ -136,7 +136,7 @@ export default class MainScene extends React.Component {
 
 
     //Lights
-    var envLight = new THREE.AmbientLight(0xc4976c, 1);
+    var envLight = new THREE.AmbientLight(0xc4976c, 2.5);
     this.scene.add(envLight);
 
     var dirLight = new THREE.DirectionalLight(0xffffff, 1);
