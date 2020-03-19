@@ -4,7 +4,9 @@ swiper.innerHTML = "";
 
 var data = [
     { name: "AKM", thumbnail: "assets/thumbnails/akm.jpg", model: "assets/models/akm/scene.gltf" },
-    { name: "FAL", thumbnail: "assets/thumbnails/fal.jpg", model: "assets/models/fal/scene.gltf" }
+    { name: "FAL", thumbnail: "assets/thumbnails/fal.jpg", model: "assets/models/fal/scene.gltf" },
+    { name: "DSHK", thumbnail: "assets/thumbnails/dshk.jpg", model: "assets/models/dshk/scene.gltf" },
+    { name: "GALIL", thumbnail: "assets/thumbnails/galil.jpg", model: "assets/models/galil/scene.gltf" }
 ]
 
 for (var i = 0; i < data.length; i++) {
