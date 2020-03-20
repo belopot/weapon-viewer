@@ -4409,13 +4409,13 @@
       "name": "Type_63_multi_rocket_launcher",
       "pbrMetallicRoughness": {
         "baseColorFactor": [
-          0.060441052589684255,
-          0.069357137222866599,
-          0.026393769250110586,
+          0.094094068281791496,
+          0.095037192155621578,
+          0.020840173627937129,
           1
         ],
-        "metallicFactor": 0.71512957317073167,
-        "roughnessFactor": 0.28220274390243905
+        "metallicFactor": 0.47732469512195119,
+        "roughnessFactor": 0.1480564024390244
       }
     },
     {

@@ -670,13 +670,13 @@
       "name": "material",
       "pbrMetallicRoughness": {
         "baseColorFactor": [
-          0.0027398010904408385,
-          0.0027398010904408385,
-          0.0027398010904408385,
+          0.04999488099145083,
+          0.04999488099145083,
+          0.04999488099145083,
           1
         ],
-        "metallicFactor": 0.34927591463414637,
-        "roughnessFactor": 0.47732469512195119
+        "metallicFactor": 0.28220274390243905,
+        "roughnessFactor": 0.3126905487804878
       }
     },
     {
@@ -689,13 +689,13 @@
       "name": "Material_29",
       "pbrMetallicRoughness": {
         "baseColorFactor": [
-          0.011750637479589597,
-          0.011750637479589597,
-          0.011750637479589597,
+          0.024031858959787163,
+          0.024031858959787163,
+          0.024031858959787163,
           1
         ],
-        "metallicFactor": 0,
-        "roughnessFactor": 0.08708079268292683
+        "metallicFactor": 0.3675685975609756,
+        "roughnessFactor": 0.31878810975609756
       }
     },
     {
@@ -708,13 +708,13 @@
       "name": "Material_27",
       "pbrMetallicRoughness": {
         "baseColorFactor": [
-          0,
-          0,
-          0,
+          0.078151723946605731,
+          0.069271734764769999,
+          0.014558658009971023,
           1
         ],
-        "metallicFactor": 0.27610518292682928,
-        "roughnessFactor": 0.52000762195121952
+        "metallicFactor": 0.1602515243902439,
+        "roughnessFactor": 0.30049542682926828
       }
     },
     {
@@ -727,13 +727,13 @@
       "name": "Material_28",
       "pbrMetallicRoughness": {
         "baseColorFactor": [
-          0.013314292935956682,
-          0.013314292935956682,
-          0.013314292935956682,
+          0.042158499604942015,
+          0.043265861743718964,
+          0.018158750771435399,
           1
         ],
-        "metallicFactor": 0.23342225609756098,
-        "roughnessFactor": 0.14195884146341464
+        "metallicFactor": 0.032202743902439025,
+        "roughnessFactor": 0.70293445121951215
       }
     },
     {
@@ -746,13 +746,13 @@
       "name": "Material_25",
       "pbrMetallicRoughness": {
         "baseColorFactor": [
-          0,
-          0,
-          0,
+          0.083560125008904501,
+          0.1002182397306339,
+          0.032478713076939149,
           1
         ],
-        "metallicFactor": 0.56878810975609762,
-        "roughnessFactor": 0.25171493902439024
+        "metallicFactor": 0.50171493902439024,
+        "roughnessFactor": 0.2029344512195122
       }
     },
     {
@@ -765,13 +765,13 @@
       "name": "Material_26",
       "pbrMetallicRoughness": {
         "baseColorFactor": [
-          0.043265861743718964,
-          0.043265861743718964,
-          0.043265861743718964,
+          0.065187917302499565,
+          0.064523021053123478,
+          0.033649052779722043,
           1
         ],
-        "metallicFactor": 0.65415396341463417,
-        "roughnessFactor": 0.25171493902439024
+        "metallicFactor": 0.2151295731707317,
+        "roughnessFactor": 0.26391006097560976
       }
     }
   ],

@@ -1803,7 +1803,7 @@
       "source": "https://sketchfab.com/3d-models/galil-7a9445d8b2da4b1daad8a5e3e6443599",
       "title": "GALIL"
     },
-    "generator": "Sketchfab-7.98.1",
+    "generator": "Sketchfab-7.99.0",
     "version": "2.0"
   },
   "bufferViews": [
@@ -1848,9 +1848,9 @@
       "name": "Material_26",
       "pbrMetallicRoughness": {
         "baseColorFactor": [
-          0.051766289830066425,
-          0.044836778534182609,
-          0.044836778534182609,
+          0.019708368943048015,
+          0.019708368943048015,
+          0.019708368943048015,
           1
         ],
         "metallicFactor": 0.16634908536585366,
@@ -1867,13 +1867,13 @@
       "name": "Material_25",
       "pbrMetallicRoughness": {
         "baseColorFactor": [
-          0.0118,
-          0.0118,
-          0.0118,
+          0.020742511621608114,
+          0.020742511621608114,
+          0.020742511621608114,
           1
         ],
         "metallicFactor": 0.33098323170731708,
-        "roughnessFactor": 0.31878810975609756
+        "roughnessFactor": 0.44073932926829268
       }
     },
     {
@@ -1886,13 +1886,13 @@
       "name": "Galil_ACE",
       "pbrMetallicRoughness": {
         "baseColorFactor": [
-          0.0118,
-          0.0118,
-          0.0118,
+          0.027606939338488443,
+          0.027606939338488443,
+          0.027606939338488443,
           1
         ],
-        "metallicFactor": 0.23951981707317074,
-        "roughnessFactor": 0.23342225609756098
+        "metallicFactor": 0.65415396341463417,
+        "roughnessFactor": 0.29439786585365851
       }
     }
   ],

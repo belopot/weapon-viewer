@@ -1055,7 +1055,7 @@
   "asset": {
     "extras": {
       "author": "belopot (https://sketchfab.com/AdamRos)",
-      "license": "COPYRIGHT TO belopot",
+      "license": "SKETCHFAB Standard (https://sketchfab.com/licenses)",
       "source": "https://sketchfab.com/3d-models/spg-720b54fc00cf410288ddadfb79681925",
       "title": "SPG"
     },
@@ -1104,13 +1104,13 @@
       "name": "SPG_9",
       "pbrMetallicRoughness": {
         "baseColorFactor": [
-          0.30463849644344537,
-          0.33108273651581677,
-          0.14244229688227161,
+          0.10556041286686094,
+          0.094078480411954324,
+          0.050469461303591229,
           1
         ],
-        "metallicFactor": 0.82488567073170727,
-        "roughnessFactor": 0.026105182926829267
+        "metallicFactor": 0.64195884146341464,
+        "roughnessFactor": 0.24561737804878048
       }
     },
     {
@@ -1148,7 +1148,7 @@
           1
         ],
         "metallicFactor": 1,
-        "roughnessFactor": 0.47122713414634149
+        "roughnessFactor": 0.33098323170731708
       }
     }
   ],
