@@ -278,7 +278,7 @@ export default class MainScene extends React.Component {
     }
   }
 
-  initPostprocessing = function () {
+  initPostprocessing() {
 
     this.composer = new POSTPROCESSING.EffectComposer(this.renderer);
 
