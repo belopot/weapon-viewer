@@ -4,7 +4,7 @@
   "description": "",
   "author": "belopot",
   "private": true,
-  "homepage": "http://belopot.github.io/weapon-viewer/",
+  "homepage": "https://belopot.github.io/weapon-viewer/",
   "dependencies": {
     "@material-ui/core": "^4.9.1",
     "@material-ui/icons": "^4.9.1",
