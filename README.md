@@ -4,8 +4,8 @@
 ![FAL](https://github.com/belopot/weapon-viewer/blob/master/public/assets/screenshots/fal.JPG)
 
 
-View the project
-(https://belopot.github.io/weapon-viewer/build/)
+## View the project
+https://belopot.github.io/weapon-viewer/
  
 
 ## Available Scripts
