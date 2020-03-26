@@ -5,7 +5,7 @@
 
 
 View the project
-(https://belopot.github.io/weapon-viewer/)
+(https://belopot.github.io/weapon-viewer/build/)
  
 
 ## Available Scripts
