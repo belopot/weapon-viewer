@@ -3,12 +3,12 @@ swiper.innerHTML = "";
 
 
 var data = [
-    { name: "AKM", thumbnail: "assets/thumbnails/akm.jpg", model: "assets/models/akm/scene.gltf" },
-    { name: "DSHK", thumbnail: "assets/thumbnails/dshk.jpg", model: "assets/models/dshk/scene.gltf" },
-    { name: "FAL", thumbnail: "assets/thumbnails/fal.jpg", model: "assets/models/fal/scene.gltf" },
-    { name: "GALIL", thumbnail: "assets/thumbnails/galil.jpg", model: "assets/models/galil/scene.gltf" },
-    { name: "HK21", thumbnail: "assets/thumbnails/hk21.jpg", model: "assets/models/hk21/scene.gltf" },
-    { name: "LG5", thumbnail: "assets/thumbnails/lg5.jpg", model: "assets/models/lg5/scene.gltf" },
+    { name: "AKM", thumbnail: "assets/thumbnails/akm.jpg", model: "/assets/models/akm/scene.gltf" },
+    { name: "DSHK", thumbnail: "assets/thumbnails/dshk.jpg", model: "/assets/models/dshk/scene.gltf" },
+    { name: "FAL", thumbnail: "assets/thumbnails/fal.jpg", model: "/assets/models/fal/scene.gltf" },
+    { name: "GALIL", thumbnail: "assets/thumbnails/galil.jpg", model: "/assets/models/galil/scene.gltf" },
+    { name: "HK21", thumbnail: "assets/thumbnails/hk21.jpg", model: "/assets/models/hk21/scene.gltf" },
+    { name: "LG5", thumbnail: "assets/thumbnails/lg5.jpg", model: "/assets/models/lg5/scene.gltf" },
     { name: "Multi Rocket Launcher", thumbnail: "assets/thumbnails/multi_rocket_launcher.jpg", model: "assets/models/multi_rocket_launcher/scene.gltf" },
     { name: "NORINCO", thumbnail: "assets/thumbnails/norinco.jpg", model: "assets/models/norinco/scene.gltf" },
     { name: "PKM", thumbnail: "assets/thumbnails/pkm.jpg", model: "assets/models/pkm/scene.gltf" },
